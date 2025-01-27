@@ -1,12 +1,25 @@
-Cibler le mobile en priorité
-Temps de chargement reduit au maximum (Qualité du code/contenu)
-Qualité, pertinance 
-Attention aux backlink
+# **Cibler le mobile en priorité**  
+- **Temps de chargement réduit au maximum** :  
+  - Importance de la qualité du code et du contenu.  
+- **Qualité et pertinence du site**.  
+- **Attention particulière aux backlinks** :  
+  - S'assurer de leur qualité et de leur pertinence pour améliorer le référencement.  
 
+---
 
+## **Les 3 points importants**  
+1. **Contenu proposé** :  
+   - Offrir un contenu de haute qualité, pertinent et adapté aux besoins des utilisateurs.  
+2. **Environnement technique** :  
+   - Faire les bons choix technologiques.  
+   - Écrire un code propre, optimisé et maintenable.  
+3. **Optimisation des backlinks** :  
+   - Construire un réseau de liens de qualité pour renforcer le référencement.  
 
+---
 
-3 points important :
-Contenu proposé
-Environ technique (choix techno, façon d'ecrire le code)
-Optimisation backlink (lien)
+## **Comportement des internautes**  
+- **Évolution vers le mobile** :  
+  - Une proportion croissante des utilisateurs accède au web via des appareils mobiles.  
+- **Montée de la recherche vocale** :  
+  - Les utilisateurs utilisent de plus en plus les assistants vocaux pour leurs recherches.  
