@@ -23,3 +23,14 @@
   - Une proportion croissante des utilisateurs accède au web via des appareils mobiles.  
 - **Montée de la recherche vocale** :  
   - Les utilisateurs utilisent de plus en plus les assistants vocaux pour leurs recherches.  
+
+  # **Objectif du site web**  
+
+- **Pourquoi ?**  
+  - Identifier les **mots-clés SEO** pertinents pour attirer le bon public.  
+
+- **Comment ?**  
+  - Définir et créer le ou les **contenus** du site web en adéquation avec les attentes des utilisateurs.  
+
+- **Contre quoi ?**  
+  - Analyser et se positionner par rapport aux **concurrents** pour se différencier. 

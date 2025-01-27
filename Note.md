@@ -88,3 +88,104 @@
 ## **Techniques de référencement**  
 - **White Hat SEO** : Référencement respectant les consignes officielles.  
 - **Black Hat SEO** : Techniques contraires aux consignes pour manipuler le référencement.  
+
+# **Audit sémantique**  
+- Analyse du **sens et des choix des mots**.  
+- Importance d’utiliser le **bon langage** et de **comprendre les intentions des utilisateurs**.  
+
+---
+
+## **Étude de marché**  
+- Utiliser des mots-clés sur les moteurs de recherche pour analyser la concurrence.  
+- Permet d’obtenir un **listing des concurrents**.  
+
+---
+
+## **Webapp**  
+- Service utilisé par les entreprises pour **gagner en productivité**.  
+
+---
+
+## **Importance des mots-clés**  
+- Les mots-clés sont la **source d’un bon référencement** :  
+  - **Pour les moteurs de recherche** : ils permettent d’indexer correctement les pages.  
+  - **Pour les utilisateurs** : ils aident à trouver les pages pertinentes.  
+
+---
+
+## **Composition d’une page web optimisée**  
+1. **Dans l’entête de la page (HEAD)** :  
+   - Invisible pour l’utilisateur, mais lue par les moteurs de recherche et les navigateurs.  
+   - Contient des informations essentielles comme :  
+     - Le titre.  
+     - La description.  
+     - Les mots-clés.  
+
+2. **Dans le corps de la page (BODY)** :  
+   - Partie visible de la page où se trouve le contenu principal.  
+
+3. **Dans les adresses (URL)** :  
+   - Les mots-clés dans l’URL sont très importants pour le référencement.  
+
+---
+
+## **Balise Title**  
+- Le contenu de la balise `title` :  
+  - S’affiche dans les SERPs (Search Engine Results Pages).  
+  - Apparaît sur l’onglet de la page dans le navigateur.  
+- **Objectif** :  
+  - Contenir des mots-clés pertinents.  
+  - Informer clairement l’utilisateur sur le contenu de la page.  
+
+---
+
+## **Conseils de rédaction pour la balise Title**  
+1. **Clarté et précision** :  
+   - Se limiter à une dizaine de mots maximum (moins si possible).  
+2. **Optimisation des mots-clés** :  
+   - Trouver une expression qui inclut le plus de mots-clés possible.  
+   - Placer les mots-clés en début de phrase.  
+3. **Personnalisation** :  
+   - Donner un titre unique à chaque page.  
+4. **Éviter** :  
+   - Les mots-clés redondants.  
+   - Les termes trop génériques.  
+5. **Caractères** :  
+   - Le nombre de caractères reconnus varie selon les moteurs de recherche.  
+
+# **Balise Meta**  
+- La **balise meta** est une balise HTML qui permet de définir des **métadonnées** qui ne sont pas affichées à l’écran.  
+- Problème courant : Trop de pages n’en contiennent pas encore.  
+- **Évolution des moteurs de recherche** :  
+  - Ces balises sont devenues **moins importantes pour le référencement**.  
+  - Elles restent cependant **utiles pour d’autres raisons** (ex. : informations sur le contenu).  
+- **Bonne pratique** :  
+  - Inclure des balises meta sur **toutes les pages**.  
+  - Les adapter en fonction du **contenu spécifique** de chaque page.  
+
+---
+
+## **Balise Meta Description**  
+- La **balise meta description** est un résumé de la page.  
+- **Affichage** :  
+  - Elle apparaît dans les SERPs (Search Engine Results Pages).  
+- **Objectifs** :  
+  1. Être **claire, concise et informative**.  
+  2. Contenir des **mots-clés pertinents**.  
+  3. **Inciter l’utilisateur à cliquer** sur le lien.  
+
+
+# **Balise Meta Robots**  
+
+- La **balise meta robots** est utilisée pour indiquer aux robots des moteurs de recherche comment ils doivent se comporter avec une page.  
+- **Fonctionnalités principales** :  
+  - Définir si la page doit être **indexée** ou non.  
+  - Préciser si les robots doivent **suivre les liens** présents sur la page ou non.
+
+  ```html
+  <meta name="robots" content="noindex, nofollow">
+  ```
+
+  "nosnipet" : empeche l'affichage d'un extrait de la page dans les SERPs
+  "noarchive" : empeche l'archivage de la page
+  "unavailable_after" : indique la date à partir de laquelle la page ne doit plus etre indexe
